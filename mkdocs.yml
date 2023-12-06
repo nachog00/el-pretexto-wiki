@@ -10,7 +10,7 @@ theme:
     font:
         text: Ubuntu
         code: Ubuntu Mono
-    language: en
+    language: es
     palette:
 
     # Light mode
@@ -20,7 +20,7 @@ theme:
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Modo oscuro
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -29,7 +29,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Modo claro
     features:
         - navigation.indexes
         - navigation.top
