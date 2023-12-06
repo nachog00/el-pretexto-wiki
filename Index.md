@@ -3,6 +3,4 @@ share: "true"
 title: Inicio
 ---
 
-Hello world
-
->This is El Pretexto wiki
+Hello from Obsidian
