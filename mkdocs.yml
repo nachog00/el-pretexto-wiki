@@ -1,10 +1,10 @@
-site_name: el_pretexto_wiki # Change this to your site name
+site_name: El Pretexto Wiki # Change this to your site name
 site_description: Documentacion de los procesos administrativos
 site_url: https://nachog00.github.io/el-pretexto-wiki/ # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
+    logo: assets/meta/logo.svg
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
