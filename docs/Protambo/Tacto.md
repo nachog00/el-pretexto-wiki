@@ -2,8 +2,6 @@
 share: "true"
 ---
 
-## Tacto
-
 Para cargar datos del tacto ingresar desde el menu de arriba al costado
 
 ![[Tacto_Select.png|Tacto_Select.png]]
