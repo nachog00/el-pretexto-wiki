@@ -2,4 +2,4 @@
 share: "true"
 ---
 
-![[cow.svg|cow.svg]]
+![[hand_drawn_cow.svg|hand_drawn_cow.svg]]
