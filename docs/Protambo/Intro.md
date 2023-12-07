@@ -2,7 +2,7 @@
 share: "true"
 ---
 
-## Que es?
+## Protambo
 
 > Un sistema de gestion para el tambo. Permite registrar eventos tanto desde una PC como desde un celular.
 
